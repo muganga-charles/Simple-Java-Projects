@@ -1,2 +1,3 @@
 # Simple-Java-Projects
-##lang : j
+##language  : java
+##concept : OOP
