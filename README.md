@@ -1,3 +1,3 @@
 # Simple-Projects
 ## language : java <br />
-## concepts : OOP.  <br >
+## concepts : OOP  <br >
