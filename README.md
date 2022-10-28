@@ -3,5 +3,5 @@
 ## concepts : OOP  <br >
 ### The goal : 
 - To show applications of the diffrent techniques in OOP.
-- A
+- Approach 
 - practice examples.
