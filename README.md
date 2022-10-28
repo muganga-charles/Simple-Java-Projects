@@ -3,4 +3,4 @@
 ## concepts : OOP  <br >
 ### The goal : 
 - to show applications of the diffrent techniques in OOP.
-- practice examples on the diffren=
+- practice examples on the diff
