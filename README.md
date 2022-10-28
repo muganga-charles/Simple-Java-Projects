@@ -2,5 +2,6 @@
 ## language : java <br />
 ## concepts : OOP  <br >
 ### The goal : 
-- to show applications of the diffrent techniques in OOP.
+- To show applications of the diffrent techniques in OOP.
+- A
 - practice examples.
