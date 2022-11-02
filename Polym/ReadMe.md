@@ -4,4 +4,4 @@ The two packages here namely;  <br />
 - animalSounds
  <br />
 Show some concepts of inheritance via polymorphism implemented in code.
-The technique of poly
+The technique of polymorphism 
