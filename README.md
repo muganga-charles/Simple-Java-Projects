@@ -5,5 +5,3 @@
 - To show applications of the diffrent techniques in OOP.
 - Approach to diffrent problems
 - practice examples.
-
-k
